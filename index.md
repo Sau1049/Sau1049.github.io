@@ -1,10 +1,8 @@
 # Saul Ortega
 
+This is my home page! My name is Saul Ortega and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer engineering.
 
-Hi Iam a computer engineer major and plan on graduting in 2028.
-
-
-My GitHub page is https://github.com/Sau1049
+My GitHub page is [here](http://github.com/Sau1049/)
 
 
 # Favorite CPSC 120L Labs
